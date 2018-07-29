@@ -13,10 +13,13 @@
  - 彭梁/男/1996
  - 本科/桂林理工大学理学院
  - 专业：信息与计算科学
- - Github：https://github.com/Samlldevel
+ - Github：https://github.com/Samlldeveljing
 
  - 期望职位：Web前端程序员，软件开发程序员
 
+## 在校经历
+- 在校任职：校学生会信息部副部长、班级心理委员
+- 荣誉证书：蓝桥杯省赛三等奖、学校手机UI界面设计二等奖
 ---
 
 # Web项目
@@ -52,9 +55,7 @@
 
 # 技能清单
 
-- Web前端：HTML/CSS/Javascript/Jquery/Bootstrap
-- Web后端：JSp/MVC/AJAX
-- Web框架: SSH/SSM
+- Web：HTML/CSS/Javascript/Jquery/Bootstrap/JSp/MVC
 - 数据库相关：MySQL/Oracle
 - 版本管理、文档和自动化部署工具：Svn/Git
 - 编程语言：Java
