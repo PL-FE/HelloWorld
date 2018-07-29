@@ -60,7 +60,7 @@
 - 版本管理、文档和自动化部署工具：Svn/Git
 - 编程语言：Java
 - 操作系统：Windows/Mac os/linux
-- 其他软件： Photoshop/Dreamweaver/Premiere Pro/Office/
+- 其他软件： Photoshop/Dreamweaver/Premiere Pro/Office
 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
