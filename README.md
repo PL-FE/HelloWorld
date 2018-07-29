@@ -15,11 +15,12 @@
  - 专业：信息与计算科学
  - Github：https://github.com/Samlldeveljing
 
- - 期望职位：Web前端程序员，软件开发程序员
+ - 期望职位：Web前端程序员 > 软件开发程序员
 
 ## 在校经历
 - 在校任职：校学生会信息部副部长、班级心理委员
 - 荣誉证书：蓝桥杯省赛三等奖、学校手机UI界面设计二等奖
+
 ---
 
 # Web项目
@@ -49,7 +50,7 @@
 这是团队合作项目，我在此项目中负责数据库的配置、Dao的编写、服务器的购买与配置和界面设计，并帮助其它成员解决讨论问题。其中，利用SVN代码托管，体验了团队合作。
  
 
-## [学生信息管理系统MVC](https://github.com/Samlldevel/JavaProject/tree/master/xsxxglxt7_mvc2pl)
+## [学生信息管理系统](https://github.com/Samlldevel/JavaProject/tree/master/xsxxglxt7_mvc2pl)
 利用MVC设计模式和数据库，实现了学生信息的增删改查。其中，最大的收获是体验了MVC设计模式，界面和代码分离，十分清晰。
 
 
