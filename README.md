@@ -20,7 +20,7 @@
 主修课程：C语言、MATLAB、数据结构、数学分析、高等代数、概率论、数据挖掘、数据分析、数值分析等。
 
 ### 蓝桥软件学院：Java全栈工程师方向（2017/11-2018/09）
-主修课程：培训课程： Java、数据库、Web前端、Web后端、开源框架企业级应用
+主修课程：JAVAEE、Oracle、Mysql、Web前端、Web后端、开源框架企业级应用等。
 
 # 在校经历
 - 在校任职：校学生会信息部副部长、班级心理委员
@@ -35,18 +35,18 @@
 ## [bilibili首页](http://htmlpreview.github.io/?https://github.com/Samlldevel/WebProject/blob/master/bilibili2/index.html)
 
 我在此项目使用DIV+CSS布局、javascript+jquery完成了整个网页的界面。利用了多层DIV嵌套使得网页兼容性良好，其中，我认为比较困难的是jquery和CSS的冲突，不过在理解清楚后，找到了原因，把CSS和jquery实现的功能分开。
-整个项目下来，icon集中放在一个png中通过背景图像定位拿到，使得整个img目录十分整洁，通过百度、学习B站的布局、命名等大大提升了自己的知识水平
+整个项目下来，icon集中放在一个png中通过背景图像定位拿到，使得整个img目录十分整洁，通过百度、学习B站的布局、命名等大大提升了自己的知识水平。
 
 
 ## [bmkshare](http://htmlpreview.github.io/?https://github.com/Samlldevel/WebProject/blob/master/bmkshare/index.html)
-利用蓝桥静态网页设计比赛赛前培训所学，使用bootstrap布局+swiper插件实现
+使用bootstrap布局+swiper插件实现。
 
 
 # Java项目
 
 ## [夏天酒店管理系统](https://github.com/Samlldevel/JavaProject/tree/master/jdglxt)
 
-这是团队合作项目，我在此项目中负责数据库的配置、Dao的编写、服务器的购买与配置和界面设计，并帮助其它成员解决讨论问题。其中，利用SVN代码托管，能够与团队有良好的沟通
+这是团队合作项目，我在此项目中负责数据库的配置、Dao的编写、服务器的购买与配置和界面设计，并帮助其它成员解决讨论问题。其中，利用SVN代码托管，能够与团队有良好的沟通。
  
 
 ## [学生信息管理系统](https://github.com/Samlldevel/JavaProject/tree/master/xsxxglxt7_mvc2pl)
