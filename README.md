@@ -34,19 +34,19 @@
 
 ## [bilibili首页](http://htmlpreview.github.io/?https://github.com/Samlldevel/WebProject/blob/master/bilibili2/index.html)
 
-我在此项目使用DIV+CSS布局、javascript+jquery完成了整个网页的界面。利用了多层DIV嵌套使得网页兼容性良好，其中，我认为比较困难的是jquery和CSS的冲突，不过在理解清楚后，找到了原因，把CSS和jquery实现的功能分开。
-整个项目下来，icon集中放在一个png中通过背景图像定位拿到，使得整个img目录十分整洁，通过百度、学习B站的布局、命名等大大提升了自己的知识水平。
+我在此项目使用DIV+CSS布局、javascript+jquery完成了整个网页的界面。关于网页兼容性我利用了多层DIV嵌套来实现，其中，我认为比较困难的是jquery和CSS的冲突，在理解后找到原因，把CSS和jquery实现的功能分开。
+整个项目下来，学习到了小图片可以集合在一张图上用，减少命名和文件数量，并对代码的规范有了更好的理解。
 
 
 ## [bmkshare](http://htmlpreview.github.io/?https://github.com/Samlldevel/WebProject/blob/master/bmkshare/index.html)
-使用bootstrap布局+swiper插件实现。
+使用bootstrap布局+swiper等插件实现。
 
 
 # Java项目
 
 ## [夏天酒店管理系统](https://github.com/Samlldevel/JavaProject/tree/master/jdglxt)
 
-这是团队合作项目，我在此项目中负责数据库的配置、Dao的编写、服务器的购买与配置和界面设计，并帮助其它成员解决讨论问题。其中，利用SVN代码托管，能够与团队有良好的沟通。
+这是团队合作项目，我在此项目中负责数据库的配置、dao的编写、服务器的购买与配置和界面设计，并与其它成员讨论解决问题。其中，学会了利用SVN代码托管，培养了与团队的沟通能力。
  
 
 ## [学生信息管理系统](https://github.com/Samlldevel/JavaProject/tree/master/xsxxglxt7_mvc2pl)
@@ -56,7 +56,7 @@
 # 技能清单
 
 - Web：HTML/CSS/Javascript/Jquery/Bootstrap/JSp/MVC
-- 数据库相关：MySQL/Oracle
+- 数据库相关：Oracle/MySQL
 - 版本管理、文档和自动化部署工具：Svn/Git
 - 编程语言：Java
 - 操作系统：Windows/Mac os/linux
