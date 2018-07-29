@@ -12,7 +12,7 @@
  - 彭梁/男/1996
  - 本科/桂林理工大学理学院
  - 专业：信息与计算科学
- - Github：https://github.com/Samlldeveljing
+ - Github：https://github.com/Samlldevel
  - 期望职位：软件开发工程师
  
  # 教育背景
