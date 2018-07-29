@@ -50,7 +50,7 @@
  
 
 ## [学生信息管理系统](https://github.com/Samlldevel/JavaProject/tree/master/xsxxglxt7_mvc2pl)
-利用MVC设计模式和数据库，实现了学生信息的增删改查。其中，最大的收获是体验了MVC设计模式，界面和代码分离，十分清晰。
+利用MVC设计模式和数据库，实现了学生信息的增删改查。其中，最大的收获是体验了MVC设计模式。
 
 
 # 技能清单
@@ -58,6 +58,7 @@
 - Web：HTML/CSS/Javascript/Jquery/Bootstrap/JSp/MVC
 - 数据库相关：Oracle/MySQL
 - 版本管理、文档和自动化部署工具：Svn/Git
+- 服务器：Tomcat/nginx
 - 编程语言：Java
 - 操作系统：Windows/Mac os/linux
 - 其他软件： Photoshop/Dreamweaver/Premiere Pro/Office
