@@ -17,10 +17,10 @@
  
  # 教育背景
 ### 桂林理工大学：本科（2015/09-2019/06）
-- 主修课程：C语言、MATLAB、数据结构、Java面向对象程序设计、数据库原理、数学分析、高等代数、概率论、数据挖掘、数据分析、数值分析等。
+主修课程：C语言、MATLAB、数据结构、数学分析、高等代数、概率论、数据挖掘、数据分析、数值分析等。
 
 ### 蓝桥软件学院：Java全栈工程师方向（2017/11-2018/09）
-- 培训课程：培训课程： Java、数据库、Web前端、Web后端、开源框架企业级应用
+主修课程：培训课程： Java、数据库、Web前端、Web后端、开源框架企业级应用
 
 # 在校经历
 - 在校任职：校学生会信息部副部长、班级心理委员
@@ -38,22 +38,15 @@
 整个项目下来，icon集中放在一个png中通过背景图像定位拿到，使得整个img目录十分整洁，通过百度、学习B站的布局、命名等大大提升了自己的知识水平
 
 
-## [学校主页](http://htmlpreview.github.io/?https://github.com/Samlldevel/WebProject/blob/master/school/index.html)
-
-我在此项目使用DIV+CSS布局，以学习布局为主，学习定位知识。其中，学到了利用一个片段背景通过平铺做成一个大背景，体现了知识的活用
-
-
 ## [bmkshare](http://htmlpreview.github.io/?https://github.com/Samlldevel/WebProject/blob/master/bmkshare/index.html)
-利用蓝桥静态网页设计比赛赛前培训所学，使用bootstrap布局+swiper插件实现，是一个以图片为主要形式书签网站分享网页，有很多的不足，项目是利用 Photoshop做好界面，
-再通过Dreamweaver实现。
+利用蓝桥静态网页设计比赛赛前培训所学，使用bootstrap布局+swiper插件实现
 
----
 
 # Java项目
 
 ## [夏天酒店管理系统](https://github.com/Samlldevel/JavaProject/tree/master/jdglxt)
 
-这是团队合作项目，我在此项目中负责数据库的配置、Dao的编写、服务器的购买与配置和界面设计，并帮助其它成员解决讨论问题。其中，利用SVN代码托管，体验了团队合作。
+这是团队合作项目，我在此项目中负责数据库的配置、Dao的编写、服务器的购买与配置和界面设计，并帮助其它成员解决讨论问题。其中，利用SVN代码托管，能够与团队有良好的沟通
  
 
 ## [学生信息管理系统](https://github.com/Samlldevel/JavaProject/tree/master/xsxxglxt7_mvc2pl)
