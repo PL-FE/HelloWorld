@@ -58,7 +58,7 @@
 
 # 技能清单
 
-- Web：HTML/CSS/Javascript/Jquery/Bootstrap/JSp/MVC
+- Web：HTML/CSS/Javascript/Jquery/Bootstrap/JSp/EL/Jstl/MVC/Ajax
 - 数据库相关：Oracle/MySQL
 - 版本管理、文档和自动化部署工具：Svn/Git
 - 服务器：Tomcat/nginx
