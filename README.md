@@ -31,6 +31,9 @@
 
 # Web项目
 
+## [心怡短租](http://lanqiao09.top/glg_nine_web/index.html)
+我在此项目负责首页界面的设计与布局并与后端配合实现功能。使用了DIV+CSS布局，模态框，百度地图、QQ客服插件。其中，在做好自己的工作的同时，也帮助后端的来解决问题，了解后端的情况和思路，并且对其他前端同学提出自己的想法和思路。通过这个项目加强了沟通能力，通过svn来配合，减少代码冲突；对于一个功能的实现，我会通过不同的思路来实现；对于前后端的配合有一定的理解，前端为后端留下接口，多重循环的时候尽量用class等。
+
 
 ## [bilibili首页](http://htmlpreview.github.io/?https://github.com/Samlldevel/WebProject/blob/master/bilibili2/index.html)
 
