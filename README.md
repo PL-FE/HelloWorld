@@ -13,14 +13,14 @@
  - 本科/桂林理工大学理学院
  - 专业：信息与计算科学
  - Github：https://github.com/Samlldevel
- - 期望职位：软件开发工程师
+ - 期望职位：web前端工程师
  
  # 教育背景
 ### 桂林理工大学：本科（2015/09-2019/06）
-主修课程：C语言、MATLAB、数据结构、数学分析、高等代数、概率论、数据挖掘、数据分析、数值分析等。
+主修课程：C语言、MATLAB、数据结构、数学分析、高等代数、概率论、数据分析、操作系统、计算机组成原理等。
 
 ### 蓝桥软件学院：Java全栈工程师方向（2017/11-2018/09）
-主修课程：JAVAEE、Oracle、Mysql、Web前端、Web后端、流行框架（Spring、SpringMVC、Mybatis）等。
+主修课程：Javaee、Oracle、MySQL、Web前端、Web后端、流行框架（Spring、SpringMVC、Mybatis）等相关技术，以及CEP（职业发展规划）课程。
 
 # 在校经历
 - 在校任职：校学生会信息部副部长、班级心理委员
@@ -42,7 +42,7 @@
 
 
 ## [bmkshare](http://htmlpreview.github.io/?https://github.com/Samlldevel/WebProject/blob/master/bmkshare/index.html)
-使用bootstrap布局+swiper等插件实现。
+事前使用PS设计好样子，使用bootstrap布局+swiper等插件根据做好的界面一步步实现。
 
 
 # Java项目
