@@ -3,7 +3,7 @@
 # 联系方式
 
 - 手机：18593276510
-- Email：624151713@qq.com
+- Email：pengliang96@foxmail.com
 - QQ：624151713
 
 ---
